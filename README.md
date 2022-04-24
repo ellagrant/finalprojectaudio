@@ -1,10 +1,20 @@
-# finalprojectaudio
-Repository for the audio component of my final project.
+Please refer to Final.mp4 for the finalized version of the animation. After-Effects-final and Animation-final are the finalized version in the applications.
 
-I'm planning to edit a song so that when the character's in the animation presses a button, a new part of the song plays, changing the colors on the screen as well as the character's emotions (ex. red=angry, blue=sad). There isn't really a deeper meaning here, we just thought it would be cool and wanted to have fun with our final project. 
+# Introduction
+In our animation, we wanted to show the different colors of the rainbow, with each having a represenative meaning. Many of these are associated with human emotion, and the animation follows a woman as she grapples with the emotions in her life.
 
-What I've done with the audio for our final project is take the song "Sound & Color" by Alabama Shakes and make cuts to represent when the character presses the button. The reason I wanted to use this song specifically, other than it being a really cool, upbeat song, is that it's literally called "Sound & Color," which is exactly what our animation is. I thought that was a cool way of tying together the visual and audio mediums we're working with. 
+# Pre-production Asset List
+| ASSET | SOLUTION |
+| --- | --- |
+| Music/song | Plan to download from YouTube under Fair Use |
+| Footsteps | Source from CC or self-generated |
+| Ink/Splash Transitions | Source from CC / Free non-commercial use license |
+| Camera clicks | Source from CC / Free non-commercial use license |
+| Pencil scribbling | Source from CC / Free non-commercial use license |
 
-Before the song begins, you hear the sound of footsteps, which I had recorded from the audio unit. This will play when the character walks onto the screen. I picture them walking in from the left because that aligns with the left-to-right visual flow that we learned about in the visual unit, so I panned the sound to the left. Jin Jin and I are planning to have the screen start dark, and the first time the button is pressed it turns to white. The cuts in my audio mark the different times the button is pressed and the changing visuals/colors as a result. In the beginning, the cuts are not continuous (meaning there are gaps in sound), but they become continuous by the end. 
+# Reflection
+For this project, I participated in the graphic part of the animation. I matched the frames with the audio so that the transitions for the drawings reflect the changes in color/emotions (and beat drops). As stated earlier, there was not initially a deeper meaning behind the colors besides reflection the woman's emotions, but I think the viewers can interpret why she is going through these emotions, and what is the outcome. 
 
-I tried to edit the sounds to reflect the different colors and emotions they represent. For example, the second sound switches the color scheme to red. Consequently, our character becomes angry. For this moment, I amplified it dramatically, pitched it down three whole steps, and then reversed the clip I used. I wasn't sure how to exactly evoke anger through Audacity effects, but I'm hoping that when paired with the visuals it has the intended effect on the audience. Speaking of the combination of audio and visuals to create effect, this project has made me think a lot about how combining and synthesizing multiple mediums expands a work's affordances. Like I explained below, I didn't have to make the audio alone communicate the project's meaning to the audience because I knew it would work with the other medium- the visuals- to produce an effect. However, as affordances increase, it may become harder to manage each individual medium. 
+After drawing the frames, I added some sound effects such as a pencil drawing and camera sound to further immerse the viewers in the audio/visuals. I did stray from the original idea of pressing buttons because the animation developed an interpretive meaning further along, and I found a way to transition between scenes using the previous frames (ex: orange wedge to sun) much more smoothly. 
+
+After finishing the animation, I wanted to bring it to life with dynamic color transitions in After Effects. I downloaded some video templates online and layered them (layer style: ilhouette luma) with the respective color (layer style: add). I scaled and repositioned some of the video clips so that they would spread out from a specific part of the frame. For the ending (rainbow), I added (layers style: overlay) over an ink splash clip so to symbolize the explosive expression of color and emotions.
