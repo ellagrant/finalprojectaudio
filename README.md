@@ -1,4 +1,4 @@
-Please refer to Final.mp4 for the finalized version of the animation. After-Effects-final and Animation-final are the finalized version in the applications.
+Please refer to Final.mp4 for the finalized version of the animation. After-Effects-final and Animation-final are the finalized version in the applications. See CREDITS.md for the sources we used.
 
 # Introduction
 In our animation, we wanted to show the different colors of the rainbow, with each having a represenative meaning. Many of these are associated with human emotion, and the animation follows a woman as she grapples with the emotions in her life.
